@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51077541287",
+    "project_id": "esante-bronchite",
+    "storage_bucket": "esante-bronchite.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51077541287:android:e6fe915505e89ee691da82",
+        "android_client_info": {
+          "package_name": "com.example.mon_projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFZdj0xmTOhX1CNHYyn015CXL7Uc3jKHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+# Ce fichier est un exemple. Renommez-le en 'local.properties' et ajustez les chemins.
+# Sur Windows, utilisez des doubles backslashes (\\) ou des slashes (/).
+
+# Chemin vers votre SDK Flutter
+# flutter.sdk=C:\\src\\flutter
+
+# Chemin vers votre SDK Android
+# sdk.dir=C:\\Users\\VotreNom\\AppData\\Local\\Android\\Sdk
